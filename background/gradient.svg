@@ -1,0 +1,13 @@
+<svg width="375" height="98" viewBox="0 0 375 98" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Angepasste Ellipse mit neuer y-Position -->
+    <ellipse cx="187.5" cy="150" rx="212.5" ry="117" fill="url(#paint0_radial_236_50002)"/>
+
+    <defs>
+        <!-- Angepasster radialer Farbverlauf mit neuer Transformationsposition -->
+        <radialGradient id="paint0_radial_236_50002" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(188.067 150) rotate(-90) scale(119.12 240.529)">
+            <stop stop-color="#F08C54"/>
+            <stop offset="1" stop-color="#020160"/>
+        </radialGradient>
+    </defs>
+</svg>
+
