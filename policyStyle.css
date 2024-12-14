@@ -1,0 +1,82 @@
+/* Alapbeállítások */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff; /* Fehér háttér */
+    color: #000000; /* Fekete szöveg */
+    line-height: 1.6;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    padding: 2rem;
+}
+
+/* Konténer a tartalomhoz */
+.container {
+    max-width: 800px;
+    width: 100%;
+    background-color: #ffffff; /* Fehér háttér a tartalomhoz is */
+    padding: 2rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Finom árnyék */
+    border-radius: 8px; /* Finom lekerekítés */
+    text-align: left;
+}
+
+/* Címsorok */
+.container h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #333333; /* Sötétszürke szín */
+    text-align: center;
+}
+
+.container h2 {
+    font-size: 1.5rem;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+    color: #333333; /* Sötétszürke szín */
+}
+
+/* Bekezdések */
+.container p {
+    margin: 0.5rem 0;
+    color: #555555; /* Középszürke szöveg */
+}
+
+/* Lista elemek */
+.container ul {
+    padding-left: 1.5rem;
+}
+
+.container ul li {
+    margin-bottom: 0.5rem;
+    color: #555555;
+}
+
+/* Linkek */
+.container a {
+    color: #007BFF; /* Kék link */
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.container a:hover {
+    color: #0056b3; /* Sötétebb kék hover */
+}
+
+/* Mobil nézet */
+@media (max-width: 768px) {
+    .container {
+        padding: 1.5rem;
+    }
+
+    .container h1 {
+        font-size: 1.8rem;
+    }
+
+    .container h2 {
+        font-size: 1.3rem;
+    }
+}
