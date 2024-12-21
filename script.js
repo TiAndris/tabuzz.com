@@ -133,9 +133,9 @@ function setBadge(linkId, imgId, basePath, fileName, fallbackFileName, platform)
 
     // Beállítjuk az alapértelmezett linket
     if (linkId === 'google-play-link') {
-        linkElement.href = 'https://play.google.com/store/apps/com.tabuzz.tabuzz';
+        linkElement.href = 'https://play.google.com/store/apps/details?id=com.tabuzz.tabuzz';
     } else if (linkId === 'apple-store-link') {
-        linkElement.href = 'https://www.apple.com/app-store/';
+        linkElement.href = 'https://apps.apple.com/app/id6739138216';
     }
 }
 
