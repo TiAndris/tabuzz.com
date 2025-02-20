@@ -166,5 +166,5 @@ function setAppleBadge(linkId, imgId, basePath, languageCode, fallbackFile) {
         });
 
     // Beállítjuk az Apple Store linket
-    linkElement.href = 'https://www.apple.com/app-store/';
+    linkElement.href = 'https://apps.apple.com/app/id6739138216';
 }
