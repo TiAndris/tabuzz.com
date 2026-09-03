@@ -3,6 +3,7 @@ facebook.com, 165621814078866, DIRECT, c3e20eee3f780d68
 vungle.com, 6a997ec4d2f8ae591c614541, DIRECT, c107d686becd2d77
 inmobi.com, 864c2d304b6c470ebdc854d9f946871c, DIRECT, 83e75a7ae333ca9d
 unity.com, 7506812, DIRECT, 96cabb5fbdde37a7
+ironsrc.com, 622171, DIRECT
 
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
 contextweb.com,562852,RESELLER,89ff185a4c4e857c
