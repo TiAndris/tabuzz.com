@@ -1,3 +1,5 @@
+OWNERDOMAIN=tabuzz.com
+
 google.com, pub-8531707447891093, DIRECT, f08c47fec0942fa0
 facebook.com, 165621814078866, DIRECT, c3e20eee3f780d68
 vungle.com, 6a997ec4d2f8ae591c614541, DIRECT, c107d686becd2d77
@@ -391,7 +393,6 @@ zmaticoo.com,5135063,RESELLER
 zmaticoo.com,5135224,RESELLER
 zmaticoo.com,5135302,RESELLER
 zoomd.com,88478941,RESELLER
-inmobi.com, 864c2d304b6c470ebdc854d9f946871c, DIRECT, 83e75a7ae333ca9d
 mintegral.com, 10003, RESELLER
 thunder-monetize.com, 3905806597, RESELLER
 blis.com, 33, RESELLER, 61453ae19a4b73f4
