@@ -610,3 +610,5 @@ themediagrid.com, falino, RESELLER, 9fac4a4a87c2a44f
 themediagrid.com, b8n9yh, RESELLER, 35d5010d7789b49d
 themediagrid.com, jvhg38, RESELLER, 9fac4a4a87c2a44f
 ignitemediatech.com, pub_11115, RESELLER
+smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
